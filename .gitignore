@@ -1,0 +1,5 @@
+/.ionide
+/.vs
+bin
+obj
+.fake
